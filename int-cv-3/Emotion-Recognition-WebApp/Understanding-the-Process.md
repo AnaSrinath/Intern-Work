@@ -4,7 +4,7 @@
 Facial Emotion Recognition (FER) is the technology that analyses facial expressions from
 both static images and videos in order to reveal information on one’s emotional state.
 
-<br>![](images\fer2.png)
+<br>![](images/fer2.png)
 
 &nbsp;
 
@@ -38,7 +38,7 @@ The FER algorithm can be broken down into 3 major steps:
 + **Facial Landmark Detection**  -  Extracting information about facial features from detected faces (eg: end of nose, eyebrows, etc.)
 + **Facial Expression and Emotion Classification**  -  Analyzing the movement of facial features and/or changes in the appearance of facial features and classifying this information into 6 basic categories (ie. anger, disgust, fear, joy, sadness, and surprise)
 
-<br>![](images\fer1.png)
+<br>![](images/fer1.png)
 
 <br>**WAYS TO IMPLEMENT THIS ALGORITHM:**
 1. Using OpenCV libraries
@@ -68,9 +68,9 @@ For example, You have to build a model that predicts whether to approve a loan f
 ## **HOW TO INTEGRATE?**
 Here, 3 different files will be used, [camera.py](Flask-Real-time\camera.py) which contains code to control the input camera, ["templates"](Flask-Real-time\templates) folder which contains .html files to handle the structure of the web page and finally, [app.py](Flask-Real-time\app.py) which controls both the camera file and the templates folder along with the implicit working of our application (in our case, reading from the camera, processing the feed and performing FER).
 
-<br>![](images\hapweb.jpg)
+<br>![](images/hapweb.jpg)
 
-<br>![](images\surweb.jpg)
+<br>![](images/surweb.jpg)
 
 &nbsp;
 
