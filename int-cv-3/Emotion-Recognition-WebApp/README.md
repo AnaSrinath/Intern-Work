@@ -18,6 +18,10 @@ README.md
         + What is Heroku?
         + Where do we use it and why?
 
+    &nbsp;
+
+    [Click here](Understanding-the-Process.md) &nbsp; to go to the .md file
+
 &nbsp;
 + **MEET OUR TEAM**
     - [Saadhana Srinath](https://github.com/AnaSrinath) -- Content in Markdown along with integration with Flask and deployment in Heroku
