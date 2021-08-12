@@ -6,6 +6,7 @@ both static images and videos in order to reveal information on one’s emotiona
 
 <br>![](images/fer2.png)
 
+&nbsp; 
 
 ## **IMPORTANCE & APPLICATION**
 FER in general or computer-based FER system is important because of Facial expressions and other gestures convey nonverbal communication cues that play an important role in interpersonal relations. These cues complement speech by helping the listener to interpret the intended meaning of spoken words. Therefore, FER, because it extracts and analyzes information from an image or video feed, is able to deliver unfiltered, unbiased emotional responses as data.
